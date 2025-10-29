@@ -16,7 +16,7 @@
 * Write observations for each visual
 * Provide summary of findings
 
-  ## DATASET
+## DATASET
 * train.csv from KAGGLE
 
 ## KEY LEARNINGS
